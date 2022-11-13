@@ -1,6 +1,6 @@
 Git Course
 
 
-Repositório teste para ensinar como o Git funciona.
+Repositório teste para ensinar como o Git funciona. 
 
-
+Saiba mais no link [giselebyrne.com.br]
